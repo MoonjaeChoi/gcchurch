@@ -57,3 +57,27 @@ export interface DepartmentStats {
   totalBudget: number;
   recentPosts: number;
 }
+
+// 캘린더 일정 타입
+export type EventType = 'worship' | 'meeting' | 'event' | 'service' | 'retreat' | 'etc';
+export type RecurringType = 'none' | 'weekly' | 'monthly';
+
+export interface CalendarEvent {
+  id: string;
+  title: string;
+  date: string; // YYYY-MM-DD
+  startTime?: string; // HH:mm
+  endTime?: string;
+  department: string; // department id or 'all' for church-wide
+  description?: string;
+  type: EventType;
+  location?: string;
+  attendees?: number;
+  budget?: number;
+  recurring?: {
+    type: RecurringType;
+    endDate?: string; // YYYY-MM-DD
+  };
+  createdAt?: string;
+  updatedAt?: string;
+}

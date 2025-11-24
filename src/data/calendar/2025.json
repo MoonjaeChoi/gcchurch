@@ -1,0 +1,168 @@
+[
+  {
+    "id": "2025-01-05-men-mission-worship",
+    "title": "남선교회 신년 헌신예배",
+    "date": "2025-01-05",
+    "startTime": "10:00",
+    "department": "men-mission",
+    "type": "worship",
+    "description": "2025년 새해를 맞이하여 남선교회 신년 헌신예배",
+    "attendees": 48,
+    "location": "본당"
+  },
+  {
+    "id": "2025-01-12-deacons-meeting",
+    "title": "안수집사회 월례회",
+    "date": "2025-01-12",
+    "startTime": "14:00",
+    "department": "deacons",
+    "type": "meeting",
+    "description": "1월 정기 월례회 및 2025년 사역 계획 논의",
+    "attendees": 35,
+    "location": "소예배실"
+  },
+  {
+    "id": "2025-01-19-youth-retreat",
+    "title": "청년부 겨울 수련회",
+    "date": "2025-01-19",
+    "startTime": "15:00",
+    "endTime": "2025-01-21T15:00",
+    "department": "youth",
+    "type": "retreat",
+    "description": "강원도 평창에서 2박 3일 겨울 수련회",
+    "attendees": 28,
+    "budget": 1500000,
+    "location": "강원도 평창 청년수양관"
+  },
+  {
+    "id": "2025-02-02-men-mission-evangelism",
+    "title": "남선교회 전도집회",
+    "date": "2025-02-02",
+    "startTime": "19:00",
+    "department": "men-mission",
+    "type": "event",
+    "description": "지역사회 전도를 위한 특별 집회",
+    "attendees": 52,
+    "location": "본당"
+  },
+  {
+    "id": "2025-02-09-youth-bible-study",
+    "title": "청년부 성경공부",
+    "date": "2025-02-09",
+    "startTime": "14:00",
+    "department": "youth",
+    "type": "meeting",
+    "description": "로마서 강해 성경공부",
+    "attendees": 22,
+    "location": "청년부실",
+    "recurring": {
+      "type": "weekly",
+      "endDate": "2025-12-31"
+    }
+  },
+  {
+    "id": "2025-02-09-deacons-meeting",
+    "title": "안수집사회 월례회",
+    "date": "2025-02-09",
+    "startTime": "14:00",
+    "department": "deacons",
+    "type": "meeting",
+    "description": "2월 정기 월례회",
+    "location": "소예배실",
+    "recurring": {
+      "type": "monthly",
+      "endDate": "2025-12-31"
+    }
+  },
+  {
+    "id": "2025-03-01-church-anniversary",
+    "title": "교회 창립기념일",
+    "date": "2025-03-01",
+    "startTime": "11:00",
+    "department": "all",
+    "type": "worship",
+    "description": "과천교회 창립기념 감사예배",
+    "location": "본당"
+  },
+  {
+    "id": "2025-04-20-easter",
+    "title": "부활절 연합예배",
+    "date": "2025-04-20",
+    "startTime": "10:00",
+    "department": "all",
+    "type": "worship",
+    "description": "부활절 연합 감사예배",
+    "location": "본당"
+  },
+  {
+    "id": "2025-05-05-children-day",
+    "title": "어린이날 행사",
+    "date": "2025-05-05",
+    "startTime": "14:00",
+    "department": "all",
+    "type": "event",
+    "description": "어린이날 특별 행사",
+    "location": "교회 마당"
+  },
+  {
+    "id": "2025-07-01-youth-summer-camp",
+    "title": "청년부 여름 수련회",
+    "date": "2025-07-01",
+    "startTime": "10:00",
+    "endTime": "2025-07-03T15:00",
+    "department": "youth",
+    "type": "retreat",
+    "description": "여름 수련회 (2박 3일)",
+    "location": "경기도 가평"
+  },
+  {
+    "id": "2025-08-15-liberation-day",
+    "title": "광복절 감사예배",
+    "date": "2025-08-15",
+    "startTime": "11:00",
+    "department": "all",
+    "type": "worship",
+    "description": "광복절 감사예배",
+    "location": "본당"
+  },
+  {
+    "id": "2025-09-21-thanksgiving",
+    "title": "추석 감사예배",
+    "date": "2025-09-21",
+    "startTime": "10:00",
+    "department": "all",
+    "type": "worship",
+    "description": "추석 명절 감사예배",
+    "location": "본당"
+  },
+  {
+    "id": "2025-11-23-deacons-assembly",
+    "title": "안수집사회 정기총회",
+    "date": "2025-11-23",
+    "startTime": "14:00",
+    "department": "deacons",
+    "type": "meeting",
+    "description": "2025년 정기총회 및 임원 선출",
+    "location": "소예배실"
+  },
+  {
+    "id": "2025-12-25-christmas",
+    "title": "성탄절 연합예배",
+    "date": "2025-12-25",
+    "startTime": "10:00",
+    "department": "all",
+    "type": "worship",
+    "description": "성탄절 연합 예배",
+    "location": "본당"
+  },
+  {
+    "id": "2025-12-31-new-year-eve",
+    "title": "송구영신 예배",
+    "date": "2025-12-31",
+    "startTime": "23:00",
+    "department": "all",
+    "type": "worship",
+    "description": "2025년을 보내며 2026년을 맞이하는 송구영신 예배",
+    "location": "본당"
+  }
+]

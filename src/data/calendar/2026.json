@@ -1,0 +1,96 @@
+[
+  {
+    "id": "2026-01-01-new-year",
+    "title": "신년 연합예배",
+    "date": "2026-01-01",
+    "startTime": "10:00",
+    "department": "all",
+    "type": "worship",
+    "description": "2026년 새해 첫 예배",
+    "location": "본당"
+  },
+  {
+    "id": "2026-01-11-men-mission-worship",
+    "title": "남선교회 신년 헌신예배",
+    "date": "2026-01-11",
+    "startTime": "10:00",
+    "department": "men-mission",
+    "type": "worship",
+    "description": "2026년 새해 남선교회 헌신예배",
+    "location": "본당"
+  },
+  {
+    "id": "2026-02-08-deacons-meeting",
+    "title": "안수집사회 월례회",
+    "date": "2026-02-08",
+    "startTime": "14:00",
+    "department": "deacons",
+    "type": "meeting",
+    "description": "2월 정기 월례회",
+    "location": "소예배실",
+    "recurring": {
+      "type": "monthly",
+      "endDate": "2026-12-31"
+    }
+  },
+  {
+    "id": "2026-03-01-church-anniversary",
+    "title": "교회 창립기념일",
+    "date": "2026-03-01",
+    "startTime": "11:00",
+    "department": "all",
+    "type": "worship",
+    "description": "과천교회 창립기념 감사예배",
+    "location": "본당"
+  },
+  {
+    "id": "2026-04-05-easter",
+    "title": "부활절 연합예배",
+    "date": "2026-04-05",
+    "startTime": "10:00",
+    "department": "all",
+    "type": "worship",
+    "description": "부활절 연합 감사예배",
+    "location": "본당"
+  },
+  {
+    "id": "2026-05-05-children-day",
+    "title": "어린이날 행사",
+    "date": "2026-05-05",
+    "startTime": "14:00",
+    "department": "all",
+    "type": "event",
+    "description": "어린이날 특별 행사",
+    "location": "교회 마당"
+  },
+  {
+    "id": "2026-08-15-liberation-day",
+    "title": "광복절 감사예배",
+    "date": "2026-08-15",
+    "startTime": "11:00",
+    "department": "all",
+    "type": "worship",
+    "description": "광복절 감사예배",
+    "location": "본당"
+  },
+  {
+    "id": "2026-12-25-christmas",
+    "title": "성탄절 연합예배",
+    "date": "2026-12-25",
+    "startTime": "10:00",
+    "department": "all",
+    "type": "worship",
+    "description": "성탄절 연합 예배",
+    "location": "본당"
+  },
+  {
+    "id": "2026-12-31-new-year-eve",
+    "title": "송구영신 예배",
+    "date": "2026-12-31",
+    "startTime": "23:00",
+    "department": "all",
+    "type": "worship",
+    "description": "2026년을 보내며 2027년을 맞이하는 송구영신 예배",
+    "location": "본당"
+  }
+]
