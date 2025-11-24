@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>과천교회 문서 목록</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Malgun Gothic', '맑은 고딕', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            width: 100%;
+            background-color: white;
+            padding: 40px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            border-radius: 12px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 15px;
+            font-size: 2em;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #7f8c8d;
+            margin-bottom: 40px;
+            font-size: 1.1em;
+        }
+
+        .doc-list {
+            list-style: none;
+        }
+
+        .doc-item {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            margin-bottom: 20px;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .doc-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.5);
+        }
+
+        .doc-link {
+            display: block;
+            padding: 25px 30px;
+            text-decoration: none;
+            color: white;
+        }
+
+        .doc-title {
+            font-size: 1.3em;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+
+        .doc-description {
+            font-size: 0.95em;
+            opacity: 0.9;
+            line-height: 1.5;
+        }
+
+        .icon {
+            display: inline-block;
+            margin-right: 10px;
+            font-size: 1.2em;
+        }
+
+        .footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 2px solid #ecf0f1;
+            text-align: center;
+            color: #7f8c8d;
+            font-size: 0.9em;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 12px 24px;
+            background-color: #3498db;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            transition: background-color 0.2s;
+        }
+
+        .back-link:hover {
+            background-color: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📚 과천교회 문서 목록</h1>
+        <p class="subtitle">Documents & Resources</p>
+
+        <ul class="doc-list">
+            <li class="doc-item">
+                <a href="deacons-bylaws-comparison.html" class="doc-link">
+                    <div class="doc-title">
+                        <span class="icon">📋</span>
+                        안수집사회 회칙 비교 (2024 vs 2025)
+                    </div>
+                    <div class="doc-description">
+                        2024년과 2025년 안수집사회 회칙 변경사항 비교 및 2025년 임원 명단<br>
+                        주요 변경: 은퇴선물 및 임직선물 금액 인상, 조직 구성 확대
+                    </div>
+                </a>
+            </li>
+        </ul>
+
+        <div style="text-align: center;">
+            <a href="../../" class="back-link">← 메인 블로그로 돌아가기</a>
+        </div>
+
+        <div class="footer">
+            <p>과천교회</p>
+            <p>© 2025 과천교회. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>

@@ -24,6 +24,14 @@
 - 반응형 디자인
 - 다크모드 지원
 
+### 📄 독립 문서
+- 블로그와 별도로 공유 가능한 독립 문서 지원
+- 직접 URL 접근으로 외부 공유 용이
+- **문서 목록**: [https://moonjaechoi.github.io/gcchurch/docs/](https://moonjaechoi.github.io/gcchurch/docs/)
+
+**현재 제공 문서**:
+- [안수집사회 회칙 비교 (2024 vs 2025)](https://moonjaechoi.github.io/gcchurch/docs/deacons-bylaws-comparison.html)
+
 ## 기술 스택
 
 - **Framework**: Next.js 14 (App Router)
