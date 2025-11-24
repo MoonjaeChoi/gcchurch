@@ -1,0 +1,44 @@
+[
+  {
+    "year": 2024,
+    "department": "men-mission",
+    "allocated": 12000000,
+    "spent": 10500000,
+    "category": "연간 운영 예산"
+  },
+  {
+    "year": 2024,
+    "department": "deacons",
+    "allocated": 8000000,
+    "spent": 7200000,
+    "category": "연간 운영 예산"
+  },
+  {
+    "year": 2024,
+    "department": "youth",
+    "allocated": 15000000,
+    "spent": 13800000,
+    "category": "연간 운영 예산"
+  },
+  {
+    "year": 2025,
+    "department": "men-mission",
+    "allocated": 13000000,
+    "spent": 1200000,
+    "category": "연간 운영 예산"
+  },
+  {
+    "year": 2025,
+    "department": "deacons",
+    "allocated": 9000000,
+    "spent": 800000,
+    "category": "연간 운영 예산"
+  },
+  {
+    "year": 2025,
+    "department": "youth",
+    "allocated": 16000000,
+    "spent": 1500000,
+    "category": "연간 운영 예산"
+  }
+]

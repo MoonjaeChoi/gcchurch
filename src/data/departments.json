@@ -1,0 +1,20 @@
+[
+  {
+    "id": "men-mission",
+    "name": "남선교회협의회",
+    "description": "과천교회 남선교회 연합 사역 및 활동",
+    "color": "#3b82f6"
+  },
+  {
+    "id": "deacons",
+    "name": "안수집사회",
+    "description": "안수집사들의 섬김과 봉사 사역",
+    "color": "#10b981"
+  },
+  {
+    "id": "youth",
+    "name": "청년부",
+    "description": "청년들의 신앙 성장과 교제",
+    "color": "#f59e0b"
+  }
+]

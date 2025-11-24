@@ -1,0 +1,43 @@
+[
+  {
+    "id": "event-001",
+    "title": "남선교회 신년 헌신예배",
+    "date": "2025-01-05T10:00:00+09:00",
+    "department": "men-mission",
+    "attendees": 48,
+    "description": "2025년 새해를 맞이하여 남선교회 헌신예배"
+  },
+  {
+    "id": "event-002",
+    "title": "안수집사회 월례회",
+    "date": "2025-01-12T14:00:00+09:00",
+    "department": "deacons",
+    "attendees": 35,
+    "description": "1월 정기 월례회 및 2025년 사역 계획 논의"
+  },
+  {
+    "id": "event-003",
+    "title": "청년부 겨울 수련회",
+    "date": "2025-01-19T15:00:00+09:00",
+    "department": "youth",
+    "attendees": 28,
+    "budget": 1500000,
+    "description": "강원도 평창에서 2박 3일 겨울 수련회"
+  },
+  {
+    "id": "event-004",
+    "title": "남선교회 전도집회",
+    "date": "2025-02-02T19:00:00+09:00",
+    "department": "men-mission",
+    "attendees": 52,
+    "description": "지역사회 전도를 위한 특별 집회"
+  },
+  {
+    "id": "event-005",
+    "title": "청년부 성경공부",
+    "date": "2025-02-09T14:00:00+09:00",
+    "department": "youth",
+    "attendees": 22,
+    "description": "로마서 강해 성경공부 (매주 토요일)"
+  }
+]
